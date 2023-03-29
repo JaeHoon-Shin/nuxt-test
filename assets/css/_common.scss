@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+body,html{
+    margin: 0;
+}
+header{
+    background-color: bisque;
+    text-align: center;
+    a{
+        color: red;
+        padding:20px;
+    }
+}
